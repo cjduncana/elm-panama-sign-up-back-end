@@ -46,10 +46,10 @@
     "error-factory": "^0.1.6",
     "forever": "^0.15.3",
     "fs": "0.0.1-security",
-    "hapi": "^16.5.2",
+    "hapi": "^17.0.0",
     "hapi-auth-jwt2": "^7.3.0",
     "hapi-swagger": "^8.0.0",
-    "inert": "^3.2.1",
+    "inert": "^5.0.0",
     "joi": "^13.0.2",
     "jsonwebtoken": "^8.1.0",
     "lodash": "^4.15.0",
@@ -59,7 +59,7 @@
     "path": "^0.12.7",
     "sequelize": "^4.22.15",
     "umzug": "^2.1.0",
-    "vision": "^4.1.1"
+    "vision": "^5.0.0"
   },
   "devDependencies": {
     "code": "^5.1.2",
